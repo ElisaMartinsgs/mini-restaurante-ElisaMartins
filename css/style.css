@@ -1,0 +1,20 @@
+.header {
+    background-color: rgb(240, 147, 178);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 100px;
+}
+.header img {
+    margin-right: 20px;
+    height: 60px;             
+    width: auto;           
+    margin-right: 20px;
+}
+
+.imgs img {
+    height: 300px;
+    width: auto;
+
+}
